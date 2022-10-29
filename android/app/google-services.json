@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647384246063",
+    "project_id": "pair-lap",
+    "storage_bucket": "pair-lap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647384246063:android:84aca19ecf9d655681a3da",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647384246063-vj8glrovuem7h3b5fid5t159frcve006.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0AqYrwKjf9ymxHxZrrayrLDbjU951R0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647384246063-vj8glrovuem7h3b5fid5t159frcve006.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
